@@ -78,7 +78,7 @@ C            25 mins               ▓░░░░░░░░░░░░░░
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FiTcHeRs71&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
 
 <p align="center">
-  <img alt="Space shooter" src="assets/space-shooter.gif" width="100%" />
+  <img alt="Space shooter" src="space-shooter.gif" width="100%" />
 </p>
 
 ```console
