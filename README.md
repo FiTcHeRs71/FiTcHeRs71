@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Fr%C3%A9d%C3%A9ric+Ducrot+%E2%80%94+fducrot+%40+42+Lausanne;Low-level+%7C+C+%2F+C%2B%2B+%7C+Systems+%26+Networks;%24+make+re+%26%26+.%2Fwebserv+config.conf" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Fr%C3%A9d%C3%A9ric+Ducrot+%E2%80%94+fducrot+%40+42+Lausanne;Low-level+%7C+C+%2F+C%2B%2B+%7C+Systems+%26+Networks" alt="Typing SVG" />
 
 </div>
 
