@@ -54,7 +54,6 @@ From: 06 September 2026 - To: 13 September 2026
 
 Total Time: 19 hrs 39 mins
 
-Other        9 hrs 38 mins         ████████████▒░░░░░░░░░░░░   49.07 %
 C++          6 hrs 29 mins         ████████▒░░░░░░░░░░░░░░░░   33.07 %
 HTML         1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 Markdown     56 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
