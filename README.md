@@ -30,11 +30,11 @@ int	main(void)
 ## `$ ls -lt ~/projects | head`
 
 <p align="center">
-  <a href="https://github.com/FiTcHeRs71/WebServ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FiTcHeRs71&repo=WebServ&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/FiTcHeRs71/42-Mini-Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FiTcHeRs71&repo=42-Mini-Shell&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/FiTcHeRs71/42-Cub3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FiTcHeRs71&repo=42-Cub3D&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/FiTcHeRs71/42bet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FiTcHeRs71&repo=42bet&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/FiTcHeRs71/42-Inception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FiTcHeRs71&repo=42-Inception&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/FiTcHeRs71/WebServ"><img src="cards/pin-WebServ.svg" width="400" /></a>
+  <a href="https://github.com/FiTcHeRs71/42-Mini-Shell"><img src="cards/pin-42-Mini-Shell.svg" width="400" /></a>
+  <a href="https://github.com/FiTcHeRs71/42-Cub3D"><img src="cards/pin-42-Cub3D.svg" width="400" /></a>
+  <a href="https://github.com/FiTcHeRs71/42bet"><img src="cards/pin-42bet.svg" width="400" /></a>
+  <a href="https://github.com/FiTcHeRs71/42-Inception"><img src="cards/pin-42-Inception.svg" width="400" /></a>
 </p>
 
 | Projet | Ce que ça fait | Stack |
@@ -64,18 +64,18 @@ C            25 mins               ▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fitchers71&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiTcHeRs71&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="cards/wakatime.svg" width="400" />
+  <img src="cards/languages.svg" width="400" />
 </p>
 
 ## `$ git log --stat`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FiTcHeRs71&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://streak-stats.demolab.com?user=FiTcHeRs71&theme=chartreuse-dark&hide_border=true&background=0d1117" height="165" />
+  <img src="cards/stats.svg" width="400" />
+  <img src="cards/streak.svg" width="400" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FiTcHeRs71&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="cards/activity.svg" width="100%" />
 
 <p align="center">
   <img alt="Space shooter" src="space-shooter.gif" width="100%" />
