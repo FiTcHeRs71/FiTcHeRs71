@@ -77,10 +77,9 @@ C            25 mins               ▓░░░░░░░░░░░░░░
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FiTcHeRs71&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FiTcHeRs71/FiTcHeRs71/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/FiTcHeRs71/FiTcHeRs71/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="Space shooter" src="assets/space-shooter.gif" width="100%" />
+</p>
 
 ```console
 fducrot@42lausanne:~$ exit
