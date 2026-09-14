@@ -51,7 +51,7 @@ int	main(void)
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FiTcHeRs71&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fitchers71&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiTcHeRs71&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
 </p>
 
