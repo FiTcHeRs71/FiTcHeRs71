@@ -50,14 +50,13 @@ int	main(void)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2026 - To: 20 September 2026
+From: 14 September 2026 - To: 21 September 2026
 
-Total Time: 3 hrs 3 mins
+Total Time: 47 mins
 
-Markdown   15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-C++        8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Text       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Text       4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+C++        3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
 
 <!--END_SECTION:waka-->
