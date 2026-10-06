@@ -50,16 +50,16 @@ int	main(void)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2026 - To: 04 October 2026
+From: 28 September 2026 - To: 05 October 2026
 
-Total Time: 13 hrs 13 mins
+Total Time: 10 hrs 59 mins
 
-Prisma       8 hrs 16 mins         ███████████████▓░░░░░░░░░   62.55 %
-Markdown     2 hrs 20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-SQL          1 hr 40 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Bash         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-YAML         17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Prisma       4 hrs 51 mins         ███████████░░░░░░░░░░░░░░   44.17 %
+TypeScript   3 hrs 3 mins          ███████░░░░░░░░░░░░░░░░░░   27.75 %
+SQL          1 hr 11 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Bash         41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Markdown     38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+JSON         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
