@@ -50,15 +50,15 @@ int	main(void)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2026 - To: 21 October 2026
+From: 15 October 2026 - To: 22 October 2026
 
-Total Time: 19 hrs 11 mins
+Total Time: 15 hrs 45 mins
 
-TypeScript   15 hrs 12 mins        ███████████████████▓░░░░░   79.18 %
-Markdown     1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-SQL          43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Bash         32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Makefile     22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript   13 hrs 14 mins        █████████████████████░░░░   83.98 %
+SQL          43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Bash         32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Markdown     28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Prisma       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
