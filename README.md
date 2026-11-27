@@ -15,7 +15,7 @@ int	main(void)
 	me.school   = "42 Lausanne";
 	me.status   = PISCINE_SURVIVED;
 	me.focus    = {"C", "C++", "Unix", "Networks", "Docker"};
-	me.building = "WebServ — an HTTP/1.1 server from scratch";
+	me.building = "Floor — ft_transcendence, a poker-room booking SaaS";
 	me.location = "Switzerland 🇨🇭";
 	return (keep_coding(&me));
 }
@@ -40,7 +40,7 @@ int	main(void)
 
 | Projet | Ce que ça fait | Stack |
 |---|---|---|
-| 🏓 **Transcendence** | Projet final du tronc commun 42 en équipe : app web full-stack conteneurisée | TypeScript · Prisma · PostgreSQL · Docker |
+| 🃏 **Floor** (Transcendence) | Projet final du tronc commun 42 en équipe : SaaS de réservation pour salles de poker | TypeScript · Prisma · PostgreSQL · Docker |
 | 🌐 **WebServ** | Serveur HTTP/1.1 non-bloquant (poll), CGI, config type nginx | C++98 |
 | 🐚 **Minishell** | Shell bash-like : lexer, parser récursif → AST, pipes, redirections, signaux | C |
 | 🎮 **Cub3D** | Moteur 3D raycasting façon Wolfenstein 3D avec la miniLibX | C |

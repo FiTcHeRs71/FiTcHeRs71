@@ -23,7 +23,7 @@ PINS = {
 
 # Repos owned by someone else (team projects): "owner/name" -> description
 EXTRA_PINS = {
-    "Les-razmokets/42-transcendence": "Full-stack team web app: TypeScript, Prisma, PostgreSQL, Docker.",
+    "Les-razmokets/42-transcendence": "Floor: poker-room booking SaaS. TypeScript, Prisma, PostgreSQL, Docker.",
 }
 
 BG, BORDER, GREEN, TEXT, MUTED = "#0d1117", "#1f6f3a", "#00ff41", "#c9d1d9", "#7d8590"
