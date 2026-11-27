@@ -21,6 +21,11 @@ PINS = {
     "42-Inception": "NGINX + WordPress + MariaDB infrastructure, one Docker container per service.",
 }
 
+# Repos owned by someone else (team projects): "owner/name" -> description
+EXTRA_PINS = {
+    "Les-razmokets/42-transcendence": "Full-stack team web app: TypeScript, Prisma, PostgreSQL, Docker.",
+}
+
 BG, BORDER, GREEN, TEXT, MUTED = "#0d1117", "#1f6f3a", "#00ff41", "#c9d1d9", "#7d8590"
 FONT = "'Fira Code','JetBrains Mono',Consolas,monospace"
 
@@ -171,6 +176,18 @@ def main():
     for name, desc in PINS.items():
         if name in repos:
             write(f"pin-{name}.svg", pin_card(repos[name], desc))
+    for full, desc in EXTRA_PINS.items():
+        owner, name = full.split("/")
+        repo = gql(
+            """query($owner: String!, $name: String!) {
+              repository(owner: $owner, name: $name) {
+                name stargazerCount forkCount primaryLanguage { name color }
+              }
+            }""",
+            {"owner": owner, "name": name},
+        )["repository"]
+        if repo:
+            write(f"pin-{name}.svg", pin_card(repo, desc))
 
     cc = data["contributionsCollection"]
     days = [d for w in cc["contributionCalendar"]["weeks"] for d in w["contributionDays"]]

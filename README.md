@@ -24,12 +24,13 @@ int	main(void)
 ## `$ ls ~/stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,nginx,wordpress,mysql,ts,nextjs,react,git,vim,vscode&theme=dark&perline=14" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,nginx,wordpress,mysql,ts,nextjs,react,prisma,postgres,git,vscode&theme=dark&perline=14" />
 </p>
 
 ## `$ ls -lt ~/projects | head`
 
 <p align="center">
+  <a href="https://github.com/Les-razmokets/42-transcendence"><img src="cards/pin-42-transcendence.svg" width="400" /></a>
   <a href="https://github.com/FiTcHeRs71/WebServ"><img src="cards/pin-WebServ.svg" width="400" /></a>
   <a href="https://github.com/FiTcHeRs71/42-Mini-Shell"><img src="cards/pin-42-Mini-Shell.svg" width="400" /></a>
   <a href="https://github.com/FiTcHeRs71/42-Cub3D"><img src="cards/pin-42-Cub3D.svg" width="400" /></a>
@@ -39,6 +40,7 @@ int	main(void)
 
 | Projet | Ce que ça fait | Stack |
 |---|---|---|
+| 🏓 **Transcendence** | Projet final du tronc commun 42 en équipe : app web full-stack conteneurisée | TypeScript · Prisma · PostgreSQL · Docker |
 | 🌐 **WebServ** | Serveur HTTP/1.1 non-bloquant (poll), CGI, config type nginx | C++98 |
 | 🐚 **Minishell** | Shell bash-like : lexer, parser récursif → AST, pipes, redirections, signaux | C |
 | 🎮 **Cub3D** | Moteur 3D raycasting façon Wolfenstein 3D avec la miniLibX | C |
